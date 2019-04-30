@@ -1,6 +1,19 @@
-# gitSPL
-## GitHub SPL Repository
+# Fintech PowerBI Portfolio Analysis
 
-### This is my first attempt at integrating R with PowerBI. The purpose of the app is to track ASX stock  prices.
+- Created a PowerBI Fintech app to analyze my personal portfolio.
+- Thie BI visualizations are powered by R.
+- The source file of the website is hosted on [Github](https://github.com/UTexas80/SPL).
 
-I definitely would have coded it a bit different knowing what I know now; but it was a great learning experience for me.
+## Built With
+
+- [**R**](https://www.r-project.org/) - R programming language.
+- [**PowerBI**](https://powerbi.microsoft.com/en-us/) - Microsoft app.
+
+## License
+
+This website is licensed under the MIT License - see the [LICENSE.md](/LICENSE) file for details.
+
+## Acknowledgments
+
+* Thanks to [**Joshua Ulrich**](https://www.patreon.com/joshuaulrich) for his patience and assistance with helping me understand the [quantmod](https://cran.r-project.org/web/packages/quantmod/index.html), [performance analytics](https://cran.r-project.org/web/packages/PerformanceAnalytics/index.html) and [Technical Trading Rules 'TTR'](https://cran.r-project.org/web/packages/TTR/index.html) packages. 
+
